@@ -1,17 +1,11 @@
-# Sphinx Autodoc Example
+# Mel Spectrogram API
 
-Minimal Sphinx Autodoc Example
+This project (still WIP) is a simple microsservice to crop, convert and generate a spectrogram image as response with Python.
 
-This repo was based on https://github.com/ondrejsika/sphinx-autodoc-example, updated to work with Python 3 and read-the-docs theme
 
-- license: [MIT](https://ondrejsika.com/license/mit.txt)
-
-## Install
+## Generating documentation
 
 ```
-git clone git@github.com:alissone/sphinx-autodoc-example.git
-cd sphinx-autodoc-example
-
 cd docs
 virtualenv .env
 source .env/bin/activate
